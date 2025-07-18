@@ -3,7 +3,7 @@
 
 edad = 18
 if edad < 18:
-    print("Eres menor de edad.")
+    print("Yo a tu edad no me la pasaba viendo codigo de python.")
 elif edad == 18:
     print("¡Justo tienes 18 años!")
 else:
