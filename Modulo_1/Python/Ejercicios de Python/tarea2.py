@@ -36,5 +36,5 @@ while seguir:
         total = sum(item[1] for item in cesta)
         print(f'Total de la compra: {total}')
     elif opcion == "5":
-        print("Chao bro")
+        print("Hasta luego bro, te esperamos cuando quieras")
         seguir = False
